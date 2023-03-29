@@ -13,10 +13,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("asdasd");
         System.out.println("goısdfhkglkadsfhgalıdfkgha");
         System.out.println("Furkan'ı öpücem");
-<<<<<<< HEAD
-        
-=======
         System.out.println("Kutayı öpücem");
->>>>>>> master
+
     }
 }
