@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("goısdfhkglkadsfhgalıdfkgha");
         System.out.println("Furkan'ı öpücem");
         System.out.println("Kutayı öpücem");
+        System.out.println("Ekmeknation'a selamlar olsun");
+        System.out.println("Bu sözler örnek olur her gence");
 
     }
 }
